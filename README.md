@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/**/*.csv
+data/**/*.tsv
+data/**/*.json
+
+# OS
+.DS_Store
